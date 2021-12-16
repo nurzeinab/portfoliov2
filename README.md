@@ -4,7 +4,7 @@ A simple portfolio :)
 
 ## Demo
 
-...
+https://main.d2smrjqyw1qq4i.amplifyapp.com/
 
 ## Tech Stack
 
