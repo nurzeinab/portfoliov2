@@ -12,8 +12,6 @@ A simple portfolio :)
 
 ## Tools Used
 
-Below are are list of tools used, and the precise things they were used for:
-
 - [Ion Icons](https://ionic.io/ionicons) for hambuger menu bar
 - [Iconsdb](https://www.iconsdb.com/) for icons
 - [Icon8](https://icons8.com/) for icons
